@@ -1,4 +1,4 @@
-<p align="center">برنامج مصارى للكمبيوتر</p>
+<p align="center">برنامج مصارى للكمبيوتر
 
 ![ScreenShot](http://masary.xyz/images/screen.png)
 
@@ -53,3 +53,4 @@ https://github.com/masary4pc/emasary_app/raw/master/Masary_install.exe
 http://masary.xyz/
 
 
+</p>
