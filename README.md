@@ -1,7 +1,7 @@
 <h1 align="center">برنامج مصارى للكمبيوتر</h1>
 <p align="center"><a href="https://github.com/masary4pc/emasary_app/raw/master/Masary_install.exe" target="_blank"><img src="https://camo.githubusercontent.com/61963a2f96660edb5521db6a6560736653c7c0a3/687474703a2f2f6d61736172792e78797a2f696d616765732f73637265656e2e706e67" alt="ScreenShot" data-canonical-src="http://masary.xyz/images/screen.png" style="max-width:100%;" /></a></p>
 <h2 align="center">تحميل برنامج مصاري 2017 للكمبيوتر من الرابط التالى</h2>
-<p align="center"><font size="4"><b><a href="https://github.com/masary4pc/emasary_app/raw/master/Masary_install.exe">اضغط هنا لتحميل البرنامج</a></b></font></p>
+<p align="center"><font size="4"><b><a href="https://github.com/masary4pc/emasary_app/raw/master/Masary_install.exe">اضغط هنا لتحميل برنامج مصارى للكمبيوتر</a></b></font></p>
 <p align="center"><font size="4"><b><a href="https://github.com/masary4pc/emasary_app/raw/master/Masary_install.exe" target=""><img src="http://up.graaam.com/img/0a58a55ddba7e638a88ed555a88b5c4d.png" alt="تحميل برنامج مصارى للكمبيوتر" title="تحميل برنامج مصارى للكمبيوتر" width="253" height="75" border="0" /></a></b></font></p>
 <p align="center"><b><a href="https://github.com/masary4pc/emasary_app/raw/master/Masary_install.exe"><br /></a></b></p>
 <b>
@@ -32,5 +32,5 @@
 <p align="center">س/هل لشركه مصاري النيه في طرح البرنامج في الدول العربيه ؟</p>
 <p align="center">ج/بالتأكيد فأي برنامج ناجح يجب ان يتم نشرة في انحاء العالم لتحقيق نجاحات واسعه .</p>
 <p align="center">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>
-<p align="center">رابط الموقع الرسمي للبرنامج :-</p>
+<p align="center">رابط الموقع الرسمي للبرنامج</p>
 <p align="center"><a href="http://masary.xyz/" rel="nofollow">http://masary.xyz/</a></p>
