@@ -1,4 +1,4 @@
-برنامج مصارى للكمبيوتر
+<p align="center">برنامج مصارى للكمبيوتر</p>
 
 ![ScreenShot](http://masary.xyz/images/screen.png)
 
