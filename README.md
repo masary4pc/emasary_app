@@ -1,8 +1,6 @@
 <p align="center">برنامج مصارى للكمبيوتر</p>
 
-<p align="center">
-  ![ScreenShot](http://masary.xyz/images/screen.png)
-</p>
+![ScreenShot](http://masary.xyz/images/screen.png)
 
 
 تحميل برنامج مصاري 2017 للكمبيوتر من الرابط التالى
