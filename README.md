@@ -34,3 +34,6 @@
 <p align="center">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>
 <p align="center">رابط الموقع الرسمي للبرنامج</p>
 <p align="center"><a href="http://masary.xyz/" rel="nofollow">http://masary.xyz/</a></p>
+
+			<div style="direction:rtl;font-size:11px;text-align:center;">بتحميلك للبرنامج واستخدامة فانت توافق على سياسة الاستخدام <a target="_blank" href="./policy.html">اضغط هنا للاطلاع على سياسة الاستخدام</a></div>
+
