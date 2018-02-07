@@ -35,5 +35,5 @@
 <p align="center">رابط الموقع الرسمي للبرنامج</p>
 <p align="center"><a href="http://masary.xyz/" rel="nofollow">http://masary.xyz/</a></p>
 
-<p align="center">بتحميلك للبرنامج واستخدامة فانت توافق على سياسة الاستخدام </a><a align="center" target="_blank" href="./policy.html">اضغط هنا للاطلاع على سياسة الاستخدام</a>
+<p align="center">بتحميلك للبرنامج واستخدامة فانت توافق على سياسة الاستخدام </a><a align="center" target="_blank" href="https://github.com/masary4pc/emasary_app/blob/master/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85.md">اضغط هنا للاطلاع على سياسة الاستخدام</a>
 
